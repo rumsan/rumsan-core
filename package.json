@@ -1,0 +1,21 @@
+{
+  "name": "rumsan-core",
+  "version": "1.0.0",
+  "description": "Utilities for Rumsan Projects",
+  "author": "Rumsan Tech <team@rumsan.com>",
+  "source": "./src/index.js",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "microbundle",
+    "dev": "microbundle watch"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rumsan/rumsan-core"
+  },
+  "homepage": "https://rumsan.com",
+  "devDependencies": {
+    "microbundle": "^0.11.0"
+  }
+}
