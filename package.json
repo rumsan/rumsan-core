@@ -1,6 +1,6 @@
 {
   "name": "rumsan-core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utilities for Rumsan Projects",
   "author": "Rumsan Tech <team@rumsan.com>",
   "source": "./src/index.js",
